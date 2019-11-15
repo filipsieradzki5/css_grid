@@ -1,3 +1,6 @@
 node_modules/
 .DS_Store
 haters
+package.json
+package-lock.json
+assets/
